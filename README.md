@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**faris777/faris777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>### Hi there 👋I'm Faris Yahya</h1>
+<h1 style="color:rbg(0,0,255);">Programmer , Cybersecurity, Datascience and Machine Learing Enthuastic</h1>
+<h2>👨‍💻Software Development Projects</h2>
+<h3>Python Project</h3>
+<ul>
+<li><a href="https://github.com/faris777/MiniPythonCollection"/> Python HackerScience </a></li>
+<li><a href="https://github.com/faris777/TicTacToe"/> TicTacToe </a></li>
+<li><a href="https://github.com/faris777/Wplanner">Wedding Planner App</li>  
+<li><a href="https://github.com/faris777/alieninvadergame"/>Alien Invaders</li>
+</ul>
