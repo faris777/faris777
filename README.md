@@ -8,3 +8,11 @@
 <li><a href="https://github.com/faris777/Wplanner">Wedding Planner App</li>  
 <li><a href="https://github.com/faris777/alieninvadergame"/>Alien Invaders</li>
 </ul>
+<h1>Certification</h1>
+<ul>
+ <li>Git Training</li>
+<li>html and css certification for beginners</li>
+<li>Ultimate Android Tutorial for Appdevelopment</li>
+<li>Ethical Hacking Masterclass: From Zeroto binary deep 2021!</li>
+<li>Google Cybersecurity Professional Certificate</li>
+</ul>
