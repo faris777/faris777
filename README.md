@@ -7,6 +7,7 @@
 <li><a href="https://github.com/faris777/TicTacToe"/> TicTacToe </a></li>
 <li><a href="https://github.com/faris777/Wplanner">Wedding Planner App</li>  
 <li><a href="https://github.com/faris777/alieninvadergame"/>Alien Invaders</li>
+ <li><a href="https://github.com/faris777/Cybersecurity_project"/>Cybersecurity project</li>
 </ul>
 <h1>Certification</h1>
 <ul>
