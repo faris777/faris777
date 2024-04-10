@@ -9,6 +9,8 @@
 <li><a href="https://github.com/faris777/alieninvadergame"/>Alien Invaders</li>
  <li><a href="https://github.com/faris777/Cybersecurity_project"/>Cybersecurity project</li>
   <li><a href="https://github.com/faris777/EbookReader"> Ebook Reader</a></li>
+  <li><a href="https://github.com/faris777/Maxbridge">Maxbridge</a></li>
+  <li><a href="https://noontourandtravel.com/">Noon Tour and Travel</a></li>
 </ul>
 <h1>Certification</h1>
 <ul>
