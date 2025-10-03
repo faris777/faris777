@@ -12,6 +12,7 @@
   <li><a href="https://github.com/faris777/Maxbridge">Maxbridge</a></li>
   <li><a href="https://noontourandtravel.com/">Noon Tour and Travel</a></li>
   <li><a href="http://goalpharma.com.et/"> Goal Pharmaceutical </a></li>
+  <li><a href="https://sunriseethiopiadevelopement.org/"> Sun Rise Ethiopia Development </a></li>
 </ul>
 <h1>Certification</h1>
 <ul>
