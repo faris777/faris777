@@ -16,6 +16,7 @@
   <li><a href="https://github.com/faris777/reminder_app">Reminder App </a></lil>
   <li><a href="https://github.com/faris777/file_organizer">File Organizer</a></li>
   <li><a href="https://github.com/faris777/UB-sales">UB sales</a></li>
+  <li><a href="https://jkas-trading.com/">Jkas Trading</a></li>
 </ul>
 <h1>Certification</h1>
 <ul>
